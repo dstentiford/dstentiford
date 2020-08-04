@@ -25,7 +25,7 @@ Research Interests: Environmental Humanities | Ocean Humanities | U.S. Environme
 
 ☞ [Author Photo](https://drive.google.com/file/d/1D-2J6lP6oeFYZ6FCaMFdvJmLcwup8c9C/view?usp=sharing)
 
-☞ [Linkedin](www.linkedin.com/in/david-stentiford-94809512)
+☞ [Linkedin](https://www.linkedin.com/in/david-stentiford-94809512/)
 
 ⌁ **email:** ds1 [dot] stanford [at] edu
 
