@@ -4,6 +4,8 @@ date: "2020-07-28"
 type: "page"
 ---
 
+![David Stentiford and colorful blocks](/images/name-blocks.png)
+
 ---
 Research Interests: Environmental Humanities | Ocean Humanities | U.S. Environmental Cultures | Multispecies Ethnography
 
@@ -14,6 +16,11 @@ Research Interests: Environmental Humanities | Ocean Humanities | U.S. Environme
 ### Stentiford is currently the Graduate Student Coordinator at the [Center for Global Ethnography](https://iriss.stanford.edu/ethnography). At Stanford, he has also collaborated on the STS Graduate Workshop and the [Environmental Humanities Project](https://ehp.stanford.edu).
 
 ---
+
+![author's face](/images/author-photo-400-400.png)
+##### _Photo by Nethra Samarawickrema_
+---
+
 ☞ [Program Bio](https://mtl.stanford.edu/people/david-stentiford)
 
 ☞ [Author Photo](https://drive.google.com/file/d/1D-2J6lP6oeFYZ6FCaMFdvJmLcwup8c9C/view?usp=sharing)
