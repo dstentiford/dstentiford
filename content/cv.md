@@ -98,10 +98,9 @@ _Courses Taught_
 
 “Maintaining Identities in the New West,” _High Desert Journal_. 2013: 16. Print. [LINK](https://issuu.com/highdesertjournal/docs/issuu__16)
 
-“Irrigating the Desert.” _Edible Reno-Tahoe_. Spring 2012. Print.
-“What is Environmental Architecture?” _Metropolis Magazine Blog: Point of View_. 6 Oct. 2011. Web. [LINK](https://www.ediblerenotahoe.com/spring-2012/333-spring-2012-irragating-desert)
+“Irrigating the Desert.” _Edible Reno-Tahoe_. Spring 2012. Print. [LINK](https://ediblerenotahoe.com/editions/spring-2012/spring-2012-irrigating-desert/)
 
-"What is Environmental Architecture?" _Metropolis Magazine Blog: Point of View_. 7 Oct. 2011. Web. [LINK](https://www.metropolismag.com/uncategorized/what-is-environmental-architecture/)
+“What is Environmental Architecture?” _Metropolis Magazine Blog: Point of View_. 6 Oct. 2011. Web. [LINK](https://www.metropolismag.com/uncategorized/what-is-environmental-architecture/)
 
 “Environmental Futures.” _Metropolis Magazine Blog: Point of View_. 3 Oct. 2011. Web. [LINK](https://www.metropolismag.com/uncategorized/environmental-futures/)
 
