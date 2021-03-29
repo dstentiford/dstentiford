@@ -120,9 +120,9 @@ Rev. of _The Ethics of Earth Art_, by Amanda Boetzkes. _Center for Art + Environ
 
 Rev. of _Reframing the New Topographics_, edited by Greg Foster-Rice and John Rohrbach. _Center for Art + Environment Blog_. Nevada Museum of Art, 8 Sep. 2011. Web.
 
-Rev. of _Bombast: Spinning Atoms in the Desert_, by Michon Mackedon. _Precipitate_ (now _Newfound_). 2.1. Web.
+Rev. of _Bombast: Spinning Atoms in the Desert_, by Michon Mackedon. _Precipitate_ (now _Newfound_). 2.1. Web. [LINK](https://newfound.org/archives/volume-2/issue-1/review-stentiford/)
 
-Rev. of _Second Arrivals: Landscape and Belonging in Contemporary Writing of the Americas_, by Sarah Phillips Casteel. _ISLE: Interdisciplinary Studies in Literature and Environment_. 16.2. Print.
+Rev. of _Second Arrivals: Landscape and Belonging in Contemporary Writing of the Americas_, by Sarah Phillips Casteel. _ISLE: Interdisciplinary Studies in Literature and Environment_. 16.2. Print. [LINK](https://academic.oup.com/isle/article/16/2/381/741173/Second-Arrivals-Landscape-and-Belonging-in)
 
 
 #### CONFERENCE PARTICIPATION
@@ -185,7 +185,7 @@ Assisted Dr. Michael P. Branch with bibliographical work on cinematic adaptation
 #### DEPARTMENTAL AND PROFESSIONAL SERVICE
 
 
-**2020** Graduate Coordinator, Center for Global Ethnography, Stanford University
+**2020-Ongoing** Graduate Student Coordinator, [Center for Global Ethnography](https://iriss.stanford.edu/ethnography), Stanford University
 
 **2020** Invited Speaker, “Coastal Collapse: Why California’s Kelp Forests Are Disappearing,” Hard Earth Speaker Series, Roble Living Laboratory for Sustainability at Stanford, 21 January 2020
 
