@@ -11,11 +11,9 @@ Research Interests: Environmental Humanities | Ocean Humanities | U.S. Environme
 
 ---
 
-### **David Stentiford is a Ph.D. Candidate in the [Program in Modern Thought and Literature](https://mtl.stanford.edu) at [Stanford University](https://www.stanford.edu), minoring in [Anthropology](https://anthropology.stanford.edu). His research attends to environmental imaginaries which cut across domains of art, literature, engineering, and ecology. He is currently completing a dissertation that explores how temperate reef ecosystems in the Eastern Pacific became both a matter of environmental concern in the twentieth century, and concurrently, a model system for envisioning world-scale climate interventions and the extension of industrial agriculture at sea. Throughout the project, the brown macroalgae, _Macrocystis pyrifera_, or giant kelp, is approached as a stabilizer of imaginaries, economies, discourses, habitats, and even foods.**
-
+### **David Stentiford (he/him) is a Ph.D. Candidate in the [Program in Modern Thought and Literature](https://mtl.stanford.edu) at [Stanford University](https://www.stanford.edu), minoring in [Anthropology](https://anthropology.stanford.edu). His dissertation explores the intersecting histories of ocean farming, temperate reef ecosystems, and the solar energy futures of the late twentieth century. The giant kelp, _Macrocystis pyrifera_, is part of the story, along with the endevors of engineers, marine ecologists, authors, and artists.**
 
 ### Stentiford is currently the Graduate Student Coordinator at the [Center for Global Ethnography](https://iriss.stanford.edu/ethnography). At Stanford, he has also collaborated on the STS Graduate Workshop and the [Environmental Humanities Project](https://ehp.stanford.edu).
-
 
 ---
 
