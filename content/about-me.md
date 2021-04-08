@@ -4,8 +4,6 @@ date: "2020-07-28"
 type: "page"
 ---
 
----
-
 ![David Stentiford and colorful blocks](/images/name-blocks.png)
 
 ---
